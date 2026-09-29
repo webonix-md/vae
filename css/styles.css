@@ -147,7 +147,7 @@ h1, h2, h3 { margin: 0; }
 /* ---------- секции ---------- */
 .sec { padding: 104px 0; }
 .sec--tint { background: var(--paper-2); }
-.sec--dark { background: var(--green); background-image:
+.sec--dark { background: var(--green-deep); background-image:
   radial-gradient(circle at 12px 12px, rgba(232,145,63,.28) 2px, transparent 2.6px);  color: var(--on-dark); }
 .ref {
   display: flex; align-items: center; gap: 12px; margin: 0 0 16px;
